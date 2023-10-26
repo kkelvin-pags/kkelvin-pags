@@ -11,7 +11,9 @@
 <div style="display: inline_block"><br>
   <img height="40" align="center" alt="KarlosKelvin-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   &nbsp;&nbsp;
-  <img height="40" align="center" alt="KarlosKelvin-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img height="40" align="center" alt="KarlosKelvin-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  &nbsp;&nbsp;
+  <img height="40" align="center" alt="KarlosKelvin-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   &nbsp;&nbsp;
   <img height="40" align="center" alt="KarlosKelvin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   &nbsp;&nbsp;
@@ -32,8 +34,8 @@
       <img height="40" align="center" alt="KarlosKelvin-grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
   &nbsp;&nbsp;
      <img height="40" align="center" alt="KarlosKelvin-gradle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg">
- &nbsp;&nbsp;
-  <img align="right" height="180em" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif">
+  &nbsp;&nbsp;
+     <img height="40" align="center" alt="KarlosKelvin-gradle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
   
 </br>
