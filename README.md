@@ -39,18 +39,15 @@
   <img height="40" align="center" alt="KarlosKelvin-gradle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg">
   &nbsp;&nbsp;
   <img height="40" align="center" alt="KarlosKelvin-gradle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  &nbsp;&nbsp;
-  <img height="40" align="center" alt="KarlosKelvin-gradle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  &nbsp;&nbsp;
-  <img height="40" align="center" alt="KarlosKelvin-gradle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
-
- 
 </div>
 
 <div style="display: inline_block">
   </br>
-  <img height="40" align="center" alt="KarlosKelvin-gradle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+  <img height="40" align="center" alt="KarlosKelvin-gradle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   &nbsp;&nbsp;
+  <img height="40" align="center" alt="KarlosKelvin-gradle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
+  &nbsp;&nbsp;
+  <img height="40" align="center" alt="KarlosKelvin-gradle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
 </div>
   
 </br>
