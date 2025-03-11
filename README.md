@@ -30,9 +30,9 @@
   &nbsp;&nbsp;
   <img height="40" align="center" alt="KarlosKelvin-aws" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   &nbsp;&nbsp;
-  <img height="40" align="center" alt="KarlosKelvin-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  &nbsp;&nbsp;
   <img height="40" align="center" alt="KarlosKelvin-intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+  &nbsp;&nbsp;
+  <img height="40" align="center" alt="KarlosKelvin-intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   &nbsp;&nbsp;
   <img height="40" align="center" alt="KarlosKelvin-k8s" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   &nbsp;&nbsp;
@@ -43,6 +43,8 @@
 
 <div style="display: inline_block">
   </br>
+  <img height="40" align="center" alt="KarlosKelvin-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  &nbsp;&nbsp;
   <img height="40" align="center" alt="KarlosKelvin-gradle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   &nbsp;&nbsp;
   <img height="40" align="center" alt="KarlosKelvin-gradle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
