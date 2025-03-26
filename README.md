@@ -1,5 +1,5 @@
 ### Hi, I'm Karlos Kelvin! 👋
-<br/>
+
  ## Skills
 <div style="display: inline_block">
   <br>
